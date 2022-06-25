@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'Clarusway_Way to Reinvent Yourself222222222222'
+                echo 'Clarusway_Way to Reinvent Yourselwwwwwwwwf'
                 sh 'echo Integrating Jenkins Pipeline with GitHub Webhook using Jenkinsfile'
             }
         }
